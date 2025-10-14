@@ -1,6 +1,6 @@
 # Hi there it's me Gri1zllyy. 👋
-Hello, I'm Gri1zllyy, or Griiz. I work as a Full-Stack Developer and experiment with San Andreas Multiplayer (SA-MP). <br>
-Currently, I’m a manager and developer of SA-MP software. Let's create something interesting and big together!
+Hello, I'm Gri1zllyy, or Griiz. I work as a Discord Bot Management and experiment with San Andreas Multiplayer (SA-MP). <br>
+Currently, I’m a developer of Discord Bot. Let's create something interesting and big together!
 
 Feel free to get to know me better through my social media on Instagram!
 
